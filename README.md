@@ -13,7 +13,7 @@
 
 **Classifying U.S. ZIP codes as High Water Quality Risk or Normal/Lower Risk using EPA compliance data and machine learning.**
 
-*Shiley-Marcos School of Engineering · University of San Diego · Master of Applied Artificial Intelligence · Spring 2026*
+*Shiley-Marcos School of Engineering · University of San Diego · Master of Applied Artificial Intelligence · Summer 2026*
 
 </div>
 
